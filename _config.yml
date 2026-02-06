@@ -1,14 +1,1 @@
-title: Lightwave Events
-email: mima@doc-network.de
-description: Professionelle Veranstaltungstechnik und DJ-Service.
-baseurl: "" # Lass das leer für Github Pages
-url: "https://Ximerianer.github.io"
 
-# Einstellungen für das Kontaktformular (Formspree)
-# Gehe auf formspree.io, erstelle ein Formular und kopiere die ID hier hinein
-formspree_id: "DEINE_ID_HIER"
-
-markdown: kramdown
-theme: jekyll-theme-minimal # Basis-Theme
-plugins:
-  - jekyll-feed
